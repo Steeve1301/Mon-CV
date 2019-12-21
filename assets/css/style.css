@@ -23,12 +23,38 @@
     font-style: italic;
     font-weight: bold;
 }
+
+@font-face{
+    font-family: 'Inria';
+    src: url(fonts/InriaSerif-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face{
+    font-family: 'Inria';
+    src: url(fonts/InriaSerif-Italic.ttf);
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face{
+    font-family: 'Inria';
+    src: url(fonts/InriaSerif-Bold.ttf);
+    font-style: normal;
+    font-weight: bold;
+}
+@font-face{
+    font-family: 'Inria';
+    src: url(fonts/InriaSerif-BoldItalic.ttf);
+    font-style: italic;
+    font-weight: bold;
+}
 /* Body */
 body{
     /* background:#9B704D; */
     background-image: url(img/header.jpg);
     background-size:100%;
     background-repeat:no-repeat;
+    font-family: 'Inria', serif;
 }
 /* Header */
 header{
