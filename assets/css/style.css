@@ -264,6 +264,8 @@ header p{
     color:rgb(179, 171, 171);
     text-transform: uppercase;
     text-align: end;
+    margin-right:10px;
+    padding-top:10px;
     line-height: 1.5;
 }
 .aboutme ul li:nth-child(6):hover{
@@ -281,13 +283,13 @@ footer{
 }
 .filterfoot{
     background:rgba(7, 7, 7, 0.781);
-    backdrop-filter: contrast(120%);
+    backdrop-filter: contrast(25%);
     height:200px;
     display:flex;
     
 }
 .filterfoot q{
-    font-size:1.1em;
+    font-size:0.8em;
     line-height: 1.5;
     color:white;
 }
