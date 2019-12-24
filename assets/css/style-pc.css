@@ -6,7 +6,7 @@ header{
     border-bottom:none;
 }
 body{
-    background-image:url(img/header.png);
+    background-image:url(img/header.webp);
     background-size:100%;
     background-repeat:no-repeat;
 }
@@ -108,7 +108,7 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    background-image:url(img/banner.png);
+    background-image:url(img/banner.webp);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -136,7 +136,7 @@ body{
 .aboutme{
     padding:0% 5%;
     border-top:3px solid white;
-    background-image:url(img/wall.png);
+    background-image:url(img/wall.webp);
     background-size:cover;
     background-repeat:no-repeat;
     height:500px;
@@ -180,7 +180,7 @@ body{
 }
 
 footer{
-    background-image:url(img/footer.png);
+    background-image:url(img/footer.webp);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
