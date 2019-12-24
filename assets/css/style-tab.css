@@ -59,11 +59,11 @@ header{
 .aboutme{
     height:1200px;
 }
-.aboutme article:first-child{
+.aboutart{
     padding:10%;
     margin:10%;
 }
-.aboutme article:nth-child(2){
+.coord{
     height:auto;
     color:white;
     margin:10%;

@@ -144,11 +144,11 @@ body{
     justify-content: space-between;
     align-items:center;
 }
-.aboutme article:first-child h3{
+.aboutart h3{
     font-size:2.3em;
     color:rgb(126, 123, 123);
 }
-.aboutme article:first-child{
+.aboutart{
 
     width:55%;
     background:rgba(100, 100, 100, 0.973);
@@ -156,7 +156,7 @@ body{
     height:350px;
     padding:10px;
 }
-.aboutme article:nth-child(2){
+.coord{
     width:35%;
     margin-left:15px;
     text-align:center;
@@ -168,14 +168,14 @@ body{
     background:rgba(100, 100, 100, 0.973);
     text-transform: uppercase;
 }
-.aboutme article:nth-child(2) h3{
+.coord h3{
     font-size:2em;
     color:white;
 }.aboutme article p{
     font-size:0.9em;
     color:white;
 }
-.aboutme article:nth-child(2) li:nth-child(6){
+.coord li:nth-child(6){
     color:red;
 }
 
@@ -193,7 +193,7 @@ footer{
     height:200px;
     display:flex;
 }
-.filterfoot q{
+.citation q{
     font-size:0.8em;
     line-height: 1.5;
     color:white;
@@ -201,16 +201,16 @@ footer{
 .filterfoot section:first-child{
     align-self:center;
 }
-.filterfoot section article:first-child{
+.citation{
     width:30%;
     margin-left:5%;
     background:rgba(0, 0, 0, 0.26);
 }
-.filterfoot section article:nth-child(2){
+.copyright{
     color:white;
     text-align:center;
 }
-.filterfoot section article:nth-child(2) p{
+.copyright p{
     padding-top:50px;
     font-weight:bold;
     font-size:0.8em;
