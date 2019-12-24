@@ -51,7 +51,7 @@
 /* Header */
 header{
     display:flex;
-    background-image:url(img/header.jpg);
+    background-image:url(img/header.png);
     background-size:cover;
     height:300px;
     border-bottom:5px solid white;
@@ -135,7 +135,7 @@ a{
 
 .bg1{
     border-top:10px solid white;
-    background-image:url(img/banner.jpg);
+    background-image:url(img/banner.png);
     background-size:cover;
     background-repeat: no-repeat;
     height:650px;
@@ -164,7 +164,7 @@ a{
 /* About */
 .aboutme{
     border-top:10px solid white;
-    background-image:url(img/wall.jpg);
+    background-image:url(img/wall.png);
     background-size:cover;
     background-repeat:no-repeat;
     height:800px;
@@ -205,7 +205,7 @@ a{
 footer{
     border-top:10px solid white;
     height:200px;
-    background-image:url(img/footer.jpg);
+    background-image:url(img/footer.png);
     background-position:center;
     background-size:cover;
     background-repeat: no-repeat;
